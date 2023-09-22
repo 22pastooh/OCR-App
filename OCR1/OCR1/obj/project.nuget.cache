@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "TYqxIpWV9SZK9BmIS9mpBG/juD7H4ESuQCIQRdyL8mDajQmIVR0AEScJBtT6o40cI5zFuKDw/ASilVrD4eC1nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kamil\\source\\repos\\OCR1\\OCR1\\OCR1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kamil\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\ironocr\\2023.9.4\\ironocr.2023.9.4.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\ironsoftware.common\\2023.9.6\\ironsoftware.common.2023.9.6.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\ironsoftware.native.pdfmodel\\2023.9.18743\\ironsoftware.native.pdfmodel.2023.9.18743.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\ironsoftware.system.drawing\\2023.9.2\\ironsoftware.system.drawing.2023.9.2.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\sixlabors.imagesharp\\3.0.1\\sixlabors.imagesharp.3.0.1.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\sixlabors.imagesharp.drawing\\1.0.0\\sixlabors.imagesharp.drawing.1.0.0.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
